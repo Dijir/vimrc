@@ -72,7 +72,9 @@ set ttimeoutlen=50
 set splitright
 set splitbelow
 
-colorscheme molokai
+"colorscheme molokai
+set background=dark
+colorscheme hybrid
 
 map <C-b> :NERDTreeToggle<CR>
 
